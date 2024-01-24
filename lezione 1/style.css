@@ -1,0 +1,29 @@
+body {
+    margin:0;
+    text-align:center;
+    color: #333;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header img {
+    width: 200px;
+    margin: 20px 0;
+}
+
+nav {
+    background: color #f0ede6;
+    border-top:1px solid #ffd977;
+    padding:15px 0;
+    color: #004d4d;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+div{
+    color: red;
+}
+
+nav span span{
+    font-weight:bold;
+    text-transform:uppercase;
+}
